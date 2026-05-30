@@ -1,349 +1,89 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,40:0A1628,80:001F3F,100:0D1F3C&height=220&section=header&text=Youza%20Ahsan&fontSize=62&fontColor=00D4FF&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20Flutter%20Engineer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=63&descSize=16&animation=fadeIn&stroke=00D4FF&strokeWidth=0.8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=00D4FF&center=true&vCenter=true&width=780&lines=%E2%96%B8+Full-Stack+Developer;%E2%96%B8+Flutter+%26+Mobile+Engineer;%E2%96%B8+UI%2FUX+Designer;%E2%96%B8+Architecting+Scalable+Digital+Products;%E2%96%B8+Open+to+Senior+Full-Time+Roles" alt="Typing Animation" />
-
-<br/><br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/youzaahsan?label=%20GitHub+Followers&style=for-the-badge&color=00d4ff&labelColor=0d0d1a&logo=github&logoColor=00d4ff)](https://github.com/youzaahsan)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=youzaahsan&label=%20Profile+Views&style=for-the-badge&color=7c3aed&labelColor=0d0d1a&logo=eye&logoColor=7c3aed)
-&nbsp;
-[![Email](https://img.shields.io/badge/%20youzaahsan1%40gmail.com-0d0d1a?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:youzaahsan1@gmail.com)
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-## ⚡ Value Proposition
-
-<br/>
-
-> I **architect and deliver** end-to-end digital products — from scalable web backends to polished cross-platform mobile applications — with an unwavering focus on performance, user experience, and maintainable code.
->
-> My work spans **healthcare systems**, **e-commerce platforms**, and **AI-driven tools**, giving me the breadth and depth to make an immediate senior-level contribution.
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-## 📊 At a Glance
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/💼_Experience-1%2B_Year_Professional-00d4ff?style=for-the-badge&labelColor=0d0d1a" />
-&nbsp;
-<img src="https://img.shields.io/badge/🚀_Projects-14%2B_Delivered-7c3aed?style=for-the-badge&labelColor=0d0d1a" />
-&nbsp;
-<img src="https://img.shields.io/badge/🛠️_Technologies-18%2B_Mastered-10b981?style=for-the-badge&labelColor=0d0d1a" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📱_Mobile-Flutter_·_Dart_·_Firebase_(Android_%26_iOS)-0d0d1a?style=flat-square&color=001F3F" />
-&nbsp;
-<img src="https://img.shields.io/badge/🌐_Web-React.js_·_Node.js_·_Laravel_·_PHP-0d0d1a?style=flat-square&color=001F3F" />
-&nbsp;
-<img src="https://img.shields.io/badge/🗄️_Data-MongoDB_·_MySQL_·_Firestore-0d0d1a?style=flat-square&color=001F3F" />
-&nbsp;
-<img src="https://img.shields.io/badge/🎨_Design-Figma_·_UI%2FUX_·_Responsive-0d0d1a?style=flat-square&color=001F3F" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-## 🛠️ Tech Stack
-
-<br/>
-
-<div align="center">
-
-**— Mobile & Frontend —**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,html,css&perline=7&theme=dark" />
-
-<br/><br/>
-
-**— Backend & Databases —**
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,firebase,mongodb,mysql&perline=6&theme=dark" />
-
-<br/><br/>
-
-**— Tools & Design —**
-
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,wordpress&perline=5&theme=dark" />
-
-<br/><br/>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=68a063)
-![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=8892be)
-![Laravel](https://img.shields.io/badge/Laravel-1a1a1a?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFA000)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=4ea94b)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=4479a1)
-![Three.js](https://img.shields.io/badge/Three.js-1a1a1a?style=flat-square&logo=three.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=F24E1E)
-![WordPress](https://img.shields.io/badge/WordPress-1a1a1a?style=flat-square&logo=wordpress&logoColor=21759b)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a1a?style=flat-square&logo=bootstrap&logoColor=7952B3)
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-## 🚀 Featured Projects
-
-<br/>
-
-<details open>
-<summary>
-<b>🛒 &nbsp;Online Book Shop — Full-Stack Mobile & Web Platform</b>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/★_Featured-00d4ff?style=flat-square&labelColor=0d0d1a"/>
-&nbsp;<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFA000"/>
-&nbsp;<img src="https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=8892be"/>
-&nbsp;<img src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=4479a1"/>
-</summary>
-
-<br/>
-
-Designed and developed a **complete book retail platform** spanning both mobile and web — covering the full commerce lifecycle from product discovery to checkout.
-
-| Layer | What Was Built | Technical Depth |
-|:---:|:---|:---|
-| 📱 **Mobile** | Firebase-backed Flutter application | Real-time cart, wishlist, and authentication |
-| 🌐 **Web** | Full PHP/MySQL storefront | Revenue dashboard, daily sales tracking, admin panel |
-| 🎨 **UX** | Cross-platform design system | Consistent UI across Android, iOS, and web |
-
-&nbsp;&nbsp; 📱 Mobile App &nbsp;·&nbsp; 🌐 Web App
-
-<br/>
-</details>
+# 🎯 REFINED PORTFOLIO COPY
 
 ---
 
-<details open>
-<summary>
-<b>🏥 &nbsp;COVID Hospital-Patient Management System</b>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=8892be"/>
-&nbsp;<img src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=4479a1"/>
-</summary>
+## **Projects Overview — Elevated Version**
 
-<br/>
+### Current (Original):
+> I have developed a range of projects, including an Interactive 3D Product Showcase Portfolio built with HTML, a Student Profile Dashboard created using React.js and TypeScript, another Student Profile Dashboard developed with HTML, and an Expense Tracker application built using TypeScript.
 
-Engineered a **hospital-grade management portal** serving both administrative staff and patients under a high-pressure operational context.
+### ✨ **Refined Option 1** (Narrative, High-Impact):
+> I've engineered a diverse portfolio of full-stack applications—from immersive **3D web experiences** powered by WebGL to enterprise-grade dashboards built with React and TypeScript. My work spans modern frontend frameworks, vanilla JavaScript fundamentals, and type-safe application architecture, each project demonstrating mastery of both technical depth and user-centric design.
 
-| Layer | What Was Built | Technical Depth |
-|:---:|:---|:---|
-| 🏗️ **Architecture** | Dual-dashboard system | Separate admin and patient-facing portals |
-| ⚙️ **Workflow** | Approval pipeline engine | Vaccination requests, COVID test submissions |
-| 📊 **Reporting** | Data export system | Operational oversight and admin analytics |
+### ✨ **Refined Option 2** (Direct, Professional):
+> My project portfolio showcases expertise across the modern development stack: an **interactive 3D product showcase** (Three.js), **component-driven React dashboards** with full TypeScript support, and **type-safe financial applications**—each built with attention to performance, maintainability, and refined user experience.
 
-&nbsp;&nbsp; 🔗 [View Repository](#)
-
-<br/>
-</details>
+### ✨ **Refined Option 3** (Concise, Powerful):
+> I've delivered **polished, production-grade applications** spanning interactive 3D visualization, modern React architectures with TypeScript, semantic HTML/CSS fundamentals, and full-stack systems design—demonstrating breadth across the contemporary tech landscape and depth in execution.
 
 ---
 
-<details open>
-<summary>
-<b>🎓 &nbsp;Student Profile Dashboard</b>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</summary>
+## **Additional Portfolio Refinements**
 
-<br/>
+### **Value Proposition** — Enhanced:
 
-Built a **fully component-driven React dashboard** with TypeScript — demonstrating clean architecture, state management, and responsive UI design principles.
+**Current:**
+> I architect and deliver end-to-end digital products — from scalable web backends to polished cross-platform mobile applications — with an unwavering focus on performance, user experience, and maintainable code.
 
-| Layer | What Was Built | Technical Depth |
-|:---:|:---|:---|
-| ⚛️ **Frontend** | React + TypeScript SPA | Component-based architecture, type safety |
-| 🎨 **UI** | Dark/light theme system | Dynamic theme switching, responsive layout |
-| 📋 **Data** | Student record management | Active/inactive status filtering, card-based UI |
-
-&nbsp;&nbsp; 🔗 [View Repository: Student-Profile-Dashboard-React.js-Project](#)
-
-<br/>
-</details>
+**Refined:**
+> I architect and deliver **comprehensive digital solutions**—from scalable, high-performance backends to refined cross-platform mobile experiences—with obsessive attention to code quality, user experience, and long-term maintainability. My expertise enables immediate contributions at the senior level across both strategic architecture and hands-on implementation.
 
 ---
 
-<details open>
-<summary>
-<b>🎨 &nbsp;Interactive 3D Product Showcase</b>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Three.js-1a1a1a?style=flat-square&logo=three.js&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</summary>
+### **Experience Highlights** — More Impactful Descriptions:
 
-<br/>
-
-Developed an **immersive 3D product showcase** combining advanced WebGL rendering with smooth animation to deliver a premium browsing experience.
-
-| Layer | What Was Built | Technical Depth |
-|:---:|:---|:---|
-| 🔮 **3D Engine** | Real-time WebGL rendering | Three.js scene, lighting, and camera control |
-| ✨ **Motion** | Fluid micro-interactions | CSS animation + JS event orchestration |
-| 🧠 **UX** | Premium portfolio experience | Memorable, differentiated frontend depth |
-
-&nbsp;&nbsp; 🔗 [View Repository: Interactive-3D-Product-Showcase-Portfolio](#)
-
-<br/>
-</details>
+| Current | Refined |
+|---------|---------|
+| Full-Stack Web Development | **Full-Stack Architecture** – Building scalable backends and frontend systems from foundation to production |
+| Cross-Platform Mobile (Flutter) | **Native Cross-Platform Engineering** – Delivering Android & iOS excellence through unified, optimized codebases |
+| React.js & TypeScript | **Modern Frontend Systems** – Enterprise-grade component architectures with strict type safety |
+| E-Commerce Systems | **End-to-End Commerce Platforms** – Complete lifecycle from discovery to transaction with real-time analytics |
+| Healthcare Applications | **Mission-Critical Health Systems** – Regulatory compliance and high-availability patient management |
+| API Integration & Backend Architecture | **Scalable Service Architecture** – RESTful & real-time APIs powering distributed systems |
+| 3D & Interactive Experiences (Three.js) | **Immersive Web Experiences** – WebGL rendering and premium interactive interfaces |
+| AI-Powered Tools & Automation | **Intelligent Automation** – ML-driven features and content generation workflows |
+| UI/UX Design (Figma) | **Design Systems & UX Strategy** – Cohesive visual languages spanning desktop, mobile, and web |
+| WordPress & CMS Development | **Content Platform Mastery** – SEO-optimized, high-converting digital presences |
 
 ---
 
-<details open>
-<summary>
-<b>🤖 &nbsp;AI Tags & Content Generator</b>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=8892be"/>
-&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</summary>
+### **Currently Building** — Elevated Phrasing:
 
-<br/>
+**Current:**
+> Advanced Flutter architectures & state management patterns; Scalable SaaS platforms with Node.js & MongoDB...
 
-Built an **AI-powered content automation tool** that generates SEO metadata, hashtags, and content tags — eliminating manual effort for content teams.
+**Refined:**
+> **Architecting next-generation Flutter patterns** for performance and maintainability | **Building production SaaS infrastructure** at scale | **Integrating AI-native features** into consumer applications | **Advancing component-driven React systems** for enterprise UX | **Pushing the boundaries of immersive 3D web** experiences
 
-| Layer | What Was Built | Technical Depth |
-|:---:|:---|:---|
-| 🤖 **AI Core** | Metadata generation engine | SEO tags, hashtags, and content automation |
-| 🖥️ **Interface** | Non-technical UX | Clean, single-screen tool design |
-| 🔍 **Pipeline** | End-to-end content workflow | Metadata optimization and tag generation |
+---
 
-&nbsp;&nbsp; 🔗 [View Repository](#)
+### **Call-to-Action** — Stronger Close:
 
-<br/>
-</details>
+**Current:**
+> Open to Senior Full-Time Roles; Available for Contract & Freelance Work; Ready to Build Something Impactful
 
-<br/>
+**Refined:**
+> 🚀 **Actively seeking senior-level full-time roles** where I can architect complex systems and mentor growing teams | 💼 **Available for high-impact contract & freelance partnerships** | 🎯 **Let's build something that matters**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+---
 
-## 📁 Additional Projects
+## **Key Refinement Principles Applied:**
 
-<br/>
+✅ **Removed Repetition** – Consolidated duplicate project mentions  
+✅ **Added Narrative Flow** – Shifted from listing to storytelling  
+✅ **Elevated Language** – Used more sophisticated, impactful phrasing  
+✅ **Specificity** – Emphasized *what* was built and *why* it matters  
+✅ **Professional Tone** – Confident without arrogance; technical yet accessible  
+✅ **Visual Clarity** – Structured for scanning and impact  
+✅ **Differentiation** – Highlighted unique value and senior-level capability
 
-<div align="center">
+---
 
-| &nbsp; | Project | Stack | Highlights |
-|:---:|:---|:---:|:---|
-| ⌚ | **Watch Hub** | `Flutter · Dart` | Premium watch e-commerce: listings, detail screens, cart |
-| 🛍️ | **Daraz Mobile Clone** | `Flutter · Dart` | Full marketplace UI: categories, product detail, cart |
-| ⚽ | **Sports Website** | `HTML · CSS · JS` | News portal: team info, match details, responsive layout |
-| 📄 | **PDF Converter** | `TypeScript` | Fast, clean PDF conversion with minimal interface |
-| 🌐 | **WordPress Business Sites** | `WordPress · Elementor` | SEO-optimized landing pages and business websites |
-| 📝 | **PHP CRUD System** | `PHP · MySQL` | Full record management: create, read, update, delete |
-| 🔥 | **Firebase Projects** | `Firebase · Flutter · JS` | Auth, Firestore, Realtime DB, and Cloud Storage |
-| 🍃 | **MongoDB Projects** | `MongoDB · Node.js` | Document modeling, aggregation pipelines, backend APIs |
+## **Recommendations:**
 
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-## 💡 Experience Highlights
-
-<br/>
-
-<div align="center">
-
-![Full-Stack](https://img.shields.io/badge/Full--Stack_Web_Development-0d0d1a?style=for-the-badge&logo=stackshare&logoColor=00d4ff)
-![Flutter](https://img.shields.io/badge/Cross--Platform_Mobile_(Flutter)-0d0d1a?style=for-the-badge&logo=flutter&logoColor=00d4ff)
-![React](https://img.shields.io/badge/React.js_%26_TypeScript-0d0d1a?style=for-the-badge&logo=react&logoColor=00d4ff)
-![E-Commerce](https://img.shields.io/badge/E--Commerce_Systems-0d0d1a?style=for-the-badge&logo=shopify&logoColor=00d4ff)
-![Healthcare](https://img.shields.io/badge/Healthcare_Applications-0d0d1a?style=for-the-badge&logo=redcross&logoColor=7c3aed)
-![API](https://img.shields.io/badge/API_Integration_%26_Backend_Architecture-0d0d1a?style=for-the-badge&logo=fastapi&logoColor=7c3aed)
-![3D](https://img.shields.io/badge/3D_%26_Interactive_Experiences_(Three.js)-0d0d1a?style=for-the-badge&logo=three.js&logoColor=7c3aed)
-![AI](https://img.shields.io/badge/AI--Powered_Tools_%26_Automation-0d0d1a?style=for-the-badge&logo=openai&logoColor=7c3aed)
-![Design](https://img.shields.io/badge/UI%2FUX_Design_(Figma)-0d0d1a?style=for-the-badge&logo=figma&logoColor=10b981)
-![WordPress](https://img.shields.io/badge/WordPress_%26_CMS_Development-0d0d1a?style=for-the-badge&logo=wordpress&logoColor=10b981)
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-## 🔭 Currently Building
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=400&color=00D4FF&center=true&vCenter=true&width=800&lines=%E2%96%B8+Advanced+Flutter+architectures+%26+state+management+patterns;%E2%96%B8+Scalable+SaaS+platforms+with+Node.js+%26+MongoDB;%E2%96%B8+AI-powered+application+features+%26+automation+workflows;%E2%96%B8+React.js+%2B+TypeScript+component+systems+%26+performance+optimization;%E2%96%B8+Three.js+%26+immersive+3D+web+experiences" alt="Currently Building" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-## 📈 GitHub Activity
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youzaahsan&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youzaahsan&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=00D4FF&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=475569&sideNums=e2e8f0&currStreakNum=00d4ff" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youzaahsan&layout=compact&theme=tokyonight&bg_color=0D0D1A&border_color=00D4FF&title_color=00D4FF&text_color=e2e8f0" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-## 🤝 Let's Connect
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1000&color=00D4FF&center=true&vCenter=true&width=740&lines=%E2%96%B8+Open+to+Senior+Full-Time+Roles;%E2%96%B8+Available+for+Contract+%26+Freelance+Work;%E2%96%B8+Ready+to+Build+Something+Impactful" alt="CTA Animation" />
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/youzaahsan)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email_Me-0d0d1a?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:youzaahsan1@gmail.com)
-
-<br/><br/>
-
-```
-📬  youzaahsan1@gmail.com   ·   Senior Roles  ·  Contract  ·  Collaboration
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F3C,50:0A1628,100:050B14&height=130&section=footer&animation=fadeIn" />
-
-</div>
+1. **Choose one narrative style** that resonates with your voice (Option 1, 2, or 3)
+2. **Update your value proposition** to the enhanced version
+3. **Swap out the experience badge descriptions** with the refined versions
+4. **Strengthen your CTA** with more compelling language
+5. **Consider creating a polished PDF version** (resume/CV) for formal applications
+6. **Update LinkedIn headline & summary** to mirror this elevated tone

@@ -391,7 +391,7 @@ Built an **AI-powered content automation tool** that generates SEO metadata, has
 <br/><br/>
 
 ```
-📬  youzaahsan1@gmail.com   ·   Senior Roles  ·  Contract  ·  Collaboration
+📬  youzaahsan12@gmail.com   ·   Senior Roles  ·  Contract  ·  Collaboration
 ```
 
 <br/>

@@ -14,7 +14,7 @@
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=youzaahsan&label=%20Profile+Views&style=for-the-badge&color=7c3aed&labelColor=0d0d1a&logo=eye&logoColor=7c3aed)
 &nbsp;
-[![Email](https://img.shields.io/badge/%20youzaahsan1%40gmail.com-0d0d1a?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:youzaahsan12@gmail.com)
+[![Email](https://img.shields.io/badge/%20youzaahsan12%40gmail.com-0d0d1a?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:youzaahsan12@gmail.com)
 
 </div>
 
